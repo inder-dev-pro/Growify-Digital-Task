@@ -1,0 +1,10 @@
+{
+    "Brand1": {
+        "url": "https://hmgroup.com/",
+        "about": "Error fetching: HTTPSConnectionPool(host='hmgroup.com', port=443): Read timed out. (read timeout=10)"
+    },
+    "Brand2": {
+        "url": "https://www.nykaa.com/",
+        "about": "No 'About Us' page found."
+    }z
+}
